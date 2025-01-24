@@ -1,0 +1,14 @@
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejerc_en_clase\bin\Debug\net9.0\ejerc_en_clase.exe
+C:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejerc_en_clase\bin\Debug\net9.0\ejerc_en_clase.deps.json
+C:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejerc_en_clase\bin\Debug\net9.0\ejerc_en_clase.runtimeconfig.json
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejerc_en_clase\bin\Debug\net9.0\ejerc_en_clase.dll
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejerc_en_clase\bin\Debug\net9.0\ejerc_en_clase.pdb
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejerc_en_clase\obj\Debug\net9.0\ejerc_en_clase.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejerc_en_clase\obj\Debug\net9.0\ejerc_en_clase.AssemblyInfoInputs.cache
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejerc_en_clase\obj\Debug\net9.0\ejerc_en_clase.AssemblyInfo.cs
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejerc_en_clase\obj\Debug\net9.0\ejerc_en_clase.csproj.CoreCompileInputs.cache
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejerc_en_clase\obj\Debug\net9.0\ejerc_en_clase.dll
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejerc_en_clase\obj\Debug\net9.0\refint\ejerc_en_clase.dll
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejerc_en_clase\obj\Debug\net9.0\ejerc_en_clase.pdb
+C:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejerc_en_clase\obj\Debug\net9.0\ejerc_en_clase.genruntimeconfig.cache
+C:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejerc_en_clase\obj\Debug\net9.0\ref\ejerc_en_clase.dll
