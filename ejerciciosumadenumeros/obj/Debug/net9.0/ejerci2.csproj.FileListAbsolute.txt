@@ -1,0 +1,14 @@
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejercicioenclase\ejercicioenclase2\ejerci2\bin\Debug\net9.0\ejerci2.exe
+C:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejercicioenclase\ejercicioenclase2\ejerci2\bin\Debug\net9.0\ejerci2.deps.json
+C:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejercicioenclase\ejercicioenclase2\ejerci2\bin\Debug\net9.0\ejerci2.runtimeconfig.json
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejercicioenclase\ejercicioenclase2\ejerci2\bin\Debug\net9.0\ejerci2.dll
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejercicioenclase\ejercicioenclase2\ejerci2\bin\Debug\net9.0\ejerci2.pdb
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejercicioenclase\ejercicioenclase2\ejerci2\obj\Debug\net9.0\ejerci2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejercicioenclase\ejercicioenclase2\ejerci2\obj\Debug\net9.0\ejerci2.AssemblyInfoInputs.cache
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejercicioenclase\ejercicioenclase2\ejerci2\obj\Debug\net9.0\ejerci2.AssemblyInfo.cs
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejercicioenclase\ejercicioenclase2\ejerci2\obj\Debug\net9.0\ejerci2.csproj.CoreCompileInputs.cache
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejercicioenclase\ejercicioenclase2\ejerci2\obj\Debug\net9.0\ejerci2.dll
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejercicioenclase\ejercicioenclase2\ejerci2\obj\Debug\net9.0\refint\ejerci2.dll
+c:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejercicioenclase\ejercicioenclase2\ejerci2\obj\Debug\net9.0\ejerci2.pdb
+C:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejercicioenclase\ejercicioenclase2\ejerci2\obj\Debug\net9.0\ejerci2.genruntimeconfig.cache
+C:\Users\wilso\OneDrive\Escritorio\Deberes\3 Semestre\Programacion estructurada y visual\ejercicioenclase\ejercicioenclase2\ejerci2\obj\Debug\net9.0\ref\ejerci2.dll
