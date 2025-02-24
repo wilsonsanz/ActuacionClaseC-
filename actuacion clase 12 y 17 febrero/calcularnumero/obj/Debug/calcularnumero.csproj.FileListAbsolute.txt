@@ -1,0 +1,10 @@
+C:\Users\wilso\source\repos\calcularnumero\calcularnumero\bin\Debug\calcularnumero.exe.config
+C:\Users\wilso\source\repos\calcularnumero\calcularnumero\bin\Debug\calcularnumero.exe
+C:\Users\wilso\source\repos\calcularnumero\calcularnumero\bin\Debug\calcularnumero.pdb
+C:\Users\wilso\source\repos\calcularnumero\calcularnumero\obj\Debug\calcularnumero.csproj.AssemblyReference.cache
+C:\Users\wilso\source\repos\calcularnumero\calcularnumero\obj\Debug\calcularnumero.Form1.resources
+C:\Users\wilso\source\repos\calcularnumero\calcularnumero\obj\Debug\calcularnumero.Properties.Resources.resources
+C:\Users\wilso\source\repos\calcularnumero\calcularnumero\obj\Debug\calcularnumero.csproj.GenerateResource.cache
+C:\Users\wilso\source\repos\calcularnumero\calcularnumero\obj\Debug\calcularnumero.csproj.CoreCompileInputs.cache
+C:\Users\wilso\source\repos\calcularnumero\calcularnumero\obj\Debug\calcularnumero.exe
+C:\Users\wilso\source\repos\calcularnumero\calcularnumero\obj\Debug\calcularnumero.pdb
